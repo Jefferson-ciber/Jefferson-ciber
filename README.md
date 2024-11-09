@@ -2,7 +2,7 @@
 
 **`Segurança da Informação | Blue team | SOC | Desenvolvedor FullStack`**
 
-Me chamo Jefferson marques da silva, tenho 31 anos e sou natural de São Paulo.Atualmente, estou cursando Defesa Cibernetica na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[bigzeeraatv](https://www.youtube.com/@bigzeeraatv)", onde ensino a criar projetos web, e também Ciber Security, Tambem Tenho um projeto chamado "[RED SEC ACADEMY](https://redsecacademy.com/)" Uma plataforma de CTF (Capture The Flag).
+Me chamo Jefferson marques da silva, tenho 31 anos e sou natural de São Paulo. Atualmente, estou cursando Defesa Cibernetica na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[bigzeeraatv](https://www.youtube.com/@bigzeeraatv)", onde ensino a criar projetos web, e também Ciber Security, Tambem Tenho um projeto chamado "[RED SEC ACADEMY](https://redsecacademy.com/)" Uma plataforma de CTF (Capture The Flag).
 
 <p align="left">
     <a href="https://www.youtube.com/@bigzeeraatv?sub_confirmation=1">
